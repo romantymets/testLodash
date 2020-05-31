@@ -33,4 +33,5 @@ console.log('-----difernce>', _.difference(array2, array1));
 console.log('-----union>', _.union(array1, array2));
 console.log('-----without>', _.without(array2, 2));
 // created new array with values two array
+//
 console.log('-----concat>', _.concat(array1, array2));
